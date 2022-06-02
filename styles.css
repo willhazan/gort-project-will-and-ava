@@ -1,0 +1,86 @@
+body {
+    font-family: "Comic Sans MS";
+}
+
+img {
+    height: 200px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #B7A196;
+
+}
+
+
+.columns {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.column1 {
+    background-color: #DDC3D0;
+    float: left;
+    width: 25%;
+    padding: 10px;
+    border-style: solid;
+}
+
+.column2 {
+    background-color: #DBDAEA;
+    float: left;
+    width: 25%;
+    border-style: solid;
+}
+
+.column3 {
+    background-color: #DBFCFF;
+    float: left;
+    width: 25%;
+    border-style: solid;
+}
+
+.column4 {
+    background-color: #DDC3D0;
+    float: left;
+    width: 25%;
+    border-style: solid;
+}
+
+.peli {
+    width: 150px;
+    height: 50px;
+}
+
+.yeah {
+    display: flex;
+    justify-content: space-around;
+    background-color: #c6cbe3;
+}
+
+.creture {
+    width: 160px;
+}
+
+.man {
+    height: 75px;
+}
+
+footer .bottom {
+    position: fixed;
+    bottom: 0;
+}
+
+.bottom {
+    background-color: #DDC3D0;
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+}
